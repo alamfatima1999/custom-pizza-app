@@ -90,7 +90,7 @@ const CustomizeYourPizza = () => {
   };
 
   const togglePayment = () => {
-    setPizza({ ...pizza, showPayment: !pizza.showPayment });
+    setPizza({ ...pizza, showPayment: !pizza.showPayment, showBreakdown: false});
   };
 
   const getToppingsInputs = () => {
