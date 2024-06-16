@@ -61,5 +61,8 @@ To run this component locally, follow these steps:
    
 8. **Reset:**
    - Click on "Reset" to clear all selections and start over.
+     
+### Application Screenshot
+<img width="959" alt="image" src="https://github.com/alamfatima1999/custom-pizza-app/assets/71816449/7918fc43-8389-4f57-9314-f83e6b7864db">
 
 
