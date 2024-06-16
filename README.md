@@ -35,6 +35,10 @@ To run this component locally, follow these steps:
    ```
    This will start the development server and open the application in your default web browser.
 
+### Deployed 
+
+https://custom-pizza-app.vercel.app/
+
 
 ### Usage
 
